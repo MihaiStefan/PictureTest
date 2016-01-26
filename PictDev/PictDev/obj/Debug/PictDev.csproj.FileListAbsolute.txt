@@ -1,1 +1,9 @@
 C:\Mihai\workspace\Git\PictDev\PictDev\bin\Debug\PictDev.exe.config
+C:\Mihai\workspace\Git\PictDev\PictDev\obj\Debug\PictDev.csprojResolveAssemblyReference.cache
+C:\Mihai\workspace\Git\PictDev\PictDev\obj\Debug\PictDev.Form1.resources
+C:\Mihai\workspace\Git\PictDev\PictDev\obj\Debug\PictDev.Properties.Resources.resources
+C:\Mihai\workspace\Git\PictDev\PictDev\obj\Debug\PictDev.csproj.GenerateResource.Cache
+C:\Mihai\workspace\Git\PictDev\PictDev\bin\Debug\PictDev.exe
+C:\Mihai\workspace\Git\PictDev\PictDev\bin\Debug\PictDev.pdb
+C:\Mihai\workspace\Git\PictDev\PictDev\obj\Debug\PictDev.exe
+C:\Mihai\workspace\Git\PictDev\PictDev\obj\Debug\PictDev.pdb
