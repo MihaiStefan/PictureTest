@@ -1,0 +1,12 @@
+﻿Se poate face un template cu functii virtuale la obiectul individ. Acesta poate avea diferite forme geometrice.
+O functie folositoare poate fi cea de aflare a marginilor. 
+
+Din chestia asta se pot genera obiecte mai complexe compuse din diferiti indivizi suprapusi. Trebuie gandit 
+cum se pot suprapune indivizii si implicit anula functiile de aflare a marginilor daca acestea sunt in 
+interiorul obiectului.
+
+Acum trebuie dezvoltat:
+- perfectionarea individului in curs de dezvoltare
+- perfectionarea suprafetei
+- gasirea unei forme de relationare inte suprafata si lista de indivizi
+
