@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictDev", "PictDev\PictDev.csproj", "{A7401FD7-FEF5-4974-B504-43EBAF93A39F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emgu_1", "Emgu_1\Emgu_1.csproj", "{3E2CFD37-0889-48B0-A70E-2160A3F1D304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A7401FD7-FEF5-4974-B504-43EBAF93A39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7401FD7-FEF5-4974-B504-43EBAF93A39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7401FD7-FEF5-4974-B504-43EBAF93A39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2CFD37-0889-48B0-A70E-2160A3F1D304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2CFD37-0889-48B0-A70E-2160A3F1D304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2CFD37-0889-48B0-A70E-2160A3F1D304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2CFD37-0889-48B0-A70E-2160A3F1D304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,6 +8,21 @@ namespace PictDev
 {
     class SM_Image
     {
+        public List<List<Int16>> array;
+        
+
+        public SM_Image()
+        {
+            array = new List<List<Int16>>();
+         
+        }
+
+        public SM_Image(int Size)
+        {
+            array = new List<List<Int16>>(Size);
+
+        }
+
         private Int16 RGBtoBW_1(Int16 R, Int16 G, Int16 B)
         {
             Int32 TeRez = 0;
