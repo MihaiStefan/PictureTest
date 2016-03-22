@@ -85,7 +85,7 @@ namespace HerdGame
 
             OnChangingCoords();
         }
-
+        
         public void SetRadius(int NewRadius)
         {
             radius = NewRadius;
